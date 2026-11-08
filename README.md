@@ -9,7 +9,14 @@ A simple task manager built with python
 - save tasks
 - load saved tasks
 - admin mode
+- set task priority
 
+## Task priority
+
+each task can have one of these priority levels:
+- low
+- medium
+- high
 
 ## Requirements
 - Python
