@@ -1,7 +1,7 @@
 # Personal task Manager
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 
-A simple task manager built with python for learning git and github
+A simple task manager built with python for learning git - github
 
 
 ## Features
